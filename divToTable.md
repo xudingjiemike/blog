@@ -3,7 +3,6 @@
 当使用div+css的方式来制作一个表格时，为了将多个div放在同一行，会将div的dispaly设为inline-block这个时候 如果div之间换行或者有空格那么显示的时候就会有空隙，解决的办法很简单可以将div放在同一行或者margin的值设为负
 
 
-And here's some code! :+1:
 
 ```javascript
 因为div之间换行而且设为inlin-block所以会出现空隙
